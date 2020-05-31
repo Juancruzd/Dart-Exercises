@@ -1,7 +1,7 @@
 
 ReadMe!
 
-En este documento se encuentran los ejercicios a evaluar este parcial:
+En este documento se encuentran los ejercicios de Dart:
 
 
 1. ¡Hola, Mundo! 👋🏼
